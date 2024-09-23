@@ -1,3 +1,4 @@
+// everything is as is, for windows, just save the exe path at line number 12 which is right now -> C:/Users/devid/Desktop/DSA-Learning-C/ instead of ${workspaceFolder}/
 {
     "version": "2.0.0",
     "tasks": [
