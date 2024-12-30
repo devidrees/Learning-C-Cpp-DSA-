@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+// program to pointers
 void main(){
 
     //intialize a pointer
@@ -18,7 +20,7 @@ void main(){
     printf("Address of x is given using percent p: %p\n",p);
 
 
-    //derefrencing
+    //derefrencing 
     *p = 60;
     printf("x is %d\n",x); // x is now this value 60
 
