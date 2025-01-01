@@ -9,12 +9,9 @@ using namespace std;
 #include <format>
 using std::format;
 
-int main(){
+void main(){
     
     cout << "Hello Idrees!\n";
     //std::cout<<"Hello!\n";
-
-    return 0;
-
 
 }
