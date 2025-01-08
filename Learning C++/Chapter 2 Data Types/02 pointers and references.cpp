@@ -1,6 +1,8 @@
 
 // C++ Learning by Idrees
 
+//  name
+
 
 #include <iostream>
 #include <format>
@@ -8,14 +10,15 @@
 
 int main() {
 
-	int x{ 5 };
-
+	int x{ 5 }; 
 	std::cout << std::format("x is : {} \n", x);
 
-	int* ptrx = &x;
+	int* ptrx; // Pointer definition
+		
+	ptrx = &x;
 
 	std::cout << "Address of x is : " << ptrx << "\n";
-
+	
 	// ptr = 3; // won't work
 
 	int y { 6 };

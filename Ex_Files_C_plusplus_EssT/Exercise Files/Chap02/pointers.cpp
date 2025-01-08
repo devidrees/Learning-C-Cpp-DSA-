@@ -12,6 +12,9 @@ int main() {
     int* ip = &x;
 
     cout << format("The value of x is {}\n", x);
+
     cout << format("The value of y is {}\n", y);
+    
     cout << format("The value of *ip is {}\n", *ip);
+
 }
