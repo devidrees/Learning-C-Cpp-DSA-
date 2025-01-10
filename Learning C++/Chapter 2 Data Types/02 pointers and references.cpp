@@ -25,7 +25,7 @@ int main() {
 
 	std::cout << "x is : " << x << "\n";
 	std::cout << "Address of x, ptrx is : " << ptrx << "\n";
-	std::cout << "*ptrx, points to x is : " << *ptrx << "\n";
+	std::cout << "ptrx, points to x is : " << *ptrx << "\n";
 	std::cout << "dereferencing, int q = *ptrx, and q is : " << q << "\n\n\n";
 
 //------------------------------------------------ references
@@ -42,7 +42,7 @@ int main() {
 	std::cout << "*ptrx is : " << *ptrx << "\n";
 	std::cout << "q is : " << q << "\n\n\n";
 
-	// a refernce can't be changed.
+	// a reference can't be changed.
 
 
 
