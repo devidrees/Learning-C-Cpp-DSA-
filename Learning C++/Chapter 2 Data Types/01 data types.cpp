@@ -5,3 +5,8 @@
 
 using std::format;
 
+int main() {
+
+
+}
+
