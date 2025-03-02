@@ -1,4 +1,4 @@
-# 🚀 C and C++ Learning & Practice Hub
+# 🚀 Welcome to my C and C++ Learning & Practice Hub
 
 Welcome to my **C and C++ Learning Repository**! 🎉 This is where I document my journey through the fundamentals of **C** and **C++**, from beginner concepts to advanced topics, with plenty of practice along the way.
 
